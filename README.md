@@ -1,4 +1,4 @@
 # hallo-world
 first
-the first script
+my name is rui
 end
